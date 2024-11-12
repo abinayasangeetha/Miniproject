@@ -40,23 +40,27 @@ The objective of this project is to create a simulation that models a drowsiness
 
 
 ## System Architecture
-![alt text](<img/OUTPUT (1).png>)
+![OUTPUT (1)](https://github.com/user-attachments/assets/7547af29-e89a-4495-bbe3-35059018548c)
 
 
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Home page
-![alt text](<img/OUTPUT (2).png>)
+![OUTPUT (2)](https://github.com/user-attachments/assets/b818004d-8004-403b-8639-2870e5096f64)
+
 
 #### Output2 - Eyes and Mouth Detected
-![alt text](<img/OUTPUT (3).png>)
+![OUTPUT3](https://github.com/user-attachments/assets/516f49e9-5343-4caf-9ce5-01d1557cbf9c)
+
 
 #### Output3 - Eyes Close Detected
-![alt text](<img/OUTPUT (4).png>)
+![OUTPUT4](https://github.com/user-attachments/assets/33b7655a-e7c0-4476-8291-31e7ab844d88)
+
 
 #### Output4 - Yawning Detected
-![alt text](<img/OUTPUT (5).png>)
+![OUTPUT5](https://github.com/user-attachments/assets/b3c91ed3-cd91-4566-a14a-3b963e863ba6)
+
 
 ## Results and Impact
 ### Key Features
